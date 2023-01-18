@@ -1,4 +1,3 @@
 # AI with Andrii Ivanenko
 
--Machine learning
--Data science
+-Machine learning \n-Data science
